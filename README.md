@@ -1,7 +1,7 @@
 ![Logo](logo.jpg)
 
 
-# Project Title
+## Project Title
 
 These are linux commands useful for running automation code on AWS linux server
 
@@ -10,7 +10,7 @@ These are linux commands useful for running automation code on AWS linux server
 [@inwincible_shashank](https://gitlab.com/inwincible_shashank/)
 
 
-# Purpose
+## Purpose
 
 To share and educate fellow QA's on useful linux commands when interacting with AWS linux server to run automation project build
 
@@ -31,6 +31,19 @@ To share and educate fellow QA's on useful linux commands when interacting with 
   git clone https://gitlab.com/inwincible_shashank/linuxautomationcmds.git
 ```
 
+## Project Explanation
+
+1. README.md file is the start point for the download, installation and followed by git clone of the repo
+
+2. The commands are segregated in list of lesson.md files to learn click on each file
+
+3. For visual understanding screenshots are also added in Lesson.md files and they are referenced from 'Screenshots' directory so you can avoid it.
+
+4. Directory "Practice Linux" is created to demonstarte/ practice these commands. 
+(Please note your cloned project might vary in terms of file/ folder present as during demonstartion of these commands folder/ files may have added/ deleted/ copied/ moved/ renamed/ etc.)
+
+5. Follow these commands as mentioned and it will work as instructed
+
 ## Index
 
 - [Lesson1](Lesson1.md)
@@ -41,3 +54,13 @@ To share and educate fellow QA's on useful linux commands when interacting with 
 - [Lesson6]
 - [Lesson7]
 
+## Contact Me
+
+- shetkarshashank@gmail.com
+- 8928885292 (whatsapp no.)
+
+## Website
+- https://inwincibleshashank.com/
+- https://inwincibleshashank.com/inwincible-qa/
+
+##
