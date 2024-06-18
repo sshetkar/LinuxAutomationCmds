@@ -1,0 +1,31 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <browser>
+        <name>Chrome</name>
+        <version>91.0</version>
+        <driverPath>/usr/local/bin/chromedriver</driverPath>
+    </browser>
+    <url>
+        <homepage>https://www.example.com</homepage>
+        <login>https://www.example.com/login</login>
+        <dashboard>https://www.example.com/dashboard</dashboard>
+    </url>
+    <environment>
+        <env>production</env>
+        <debug>false</debug>
+        <logLevel>INFO</logLevel>
+    </environment>
+    <database>
+        <host>db.example.com</host>
+        <port>5432</port>
+        <username>admin</username>
+        <password>secret</password>
+        <databaseName>app_db</databaseName>
+    </database>
+    <api>
+        <endpoint>https://api.example.com/v1</endpoint>
+        <apiKey>abcdef123456</apiKey>
+        <timeout>30</timeout>
+    </api>
+</configuration>

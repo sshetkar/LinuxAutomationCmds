@@ -1,0 +1,46 @@
+2024-06-16 12:00:00 INFO Starting application
+2024-06-16 12:00:01 DEBUG Initializing variables
+2024-06-16 12:00:02 INFO Loading configuration
+2024-06-16 12:00:03 WARN Configuration file not found, using defaults
+2024-06-16 12:00:04 INFO Connecting to database
+2024-06-16 12:00:05 ERROR Database connection failed
+2024-06-16 12:00:06 INFO Retrying database connection
+2024-06-16 12:00:07 INFO Database connection successful
+2024-06-16 12:00:08 DEBUG Starting transaction
+2024-06-16 12:00:09 INFO Transaction started
+2024-06-16 12:00:10 INFO Fetching data from database
+2024-06-16 12:00:11 DEBUG Data fetched: {"id":1,"name":"Test"}
+2024-06-16 12:00:12 INFO Processing data
+2024-06-16 12:00:13 WARN Data processing took longer than expected
+2024-06-16 12:00:14 INFO Data processed successfully
+2024-06-16 12:00:15 DEBUG Committing transaction
+2024-06-16 12:00:16 INFO Transaction committed
+2024-06-16 12:00:17 INFO Closing database connection
+2024-06-16 12:00:18 INFO Database connection closed
+2024-06-16 12:00:19 INFO Application stopped
+2024-06-16 12:01:00 INFO Starting application
+2024-06-16 12:01:01 DEBUG Initializing variables
+2024-06-16 12:01:02 INFO Loading configuration
+2024-06-16 12:01:03 WARN Configuration file not found, using defaults
+2024-06-16 12:01:04 INFO Connecting to database
+2024-06-16 12:01:05 ERROR Database connection failed
+2024-06-16 12:01:06 INFO Retrying database connection
+2024-06-16 12:01:07 INFO Database connection successful
+2024-06-16 12:01:08 DEBUG Starting transaction
+2024-06-16 12:01:09 INFO Transaction started
+2024-06-16 12:01:10 INFO Fetching data from database
+2024-06-16 12:01:11 DEBUG Data fetched: {"id":2,"name":"Example"}
+2024-06-16 12:01:12 INFO Processing data
+2024-06-16 12:01:13 WARN Data processing took longer than expected
+2024-06-16 12:01:14 INFO Data processed successfully
+2024-06-16 12:01:15 DEBUG Committing transaction
+2024-06-16 12:01:16 INFO Transaction committed
+2024-06-16 12:01:17 INFO Closing database connection
+2024-06-16 12:01:18 INFO Database connection closed
+2024-06-16 12:01:19 INFO Application stopped
+2024-06-16 12:02:00 INFO Starting application
+2024-06-16 12:02:01 DEBUG Initializing variables
+2024-06-16 12:02:02 INFO Loading configuration
+2024-06-16 12:02:03 WARN Configuration file not found, using defaults
+2024-06-16 12:02:04 INFO Connecting to database
+2024-06-16 12:02:05 ERROR Database connection failed
