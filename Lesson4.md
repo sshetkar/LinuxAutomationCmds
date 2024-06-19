@@ -23,5 +23,4 @@
 ---
 Reference screenshots:
 ![ls Screenshot](Screenshots/lsCmd.png)
-
 ---

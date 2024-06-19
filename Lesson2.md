@@ -14,7 +14,8 @@
 2. Ensure to add valid file name and extension while creating it
 
 3. '.txt', '.md', '.feature', '.log', '.xml' 
-(rest try userself but ensure it to be a text based file only '.doc','.ppt','.csv' wont work will need respective base platform to edit)
+
+*(rest try userself but ensure it to be a text based file only '.doc','.ppt','.csv' wont work will need respective base platform to edit)*
 
 ## Edit file using nano editor:
 ```bash

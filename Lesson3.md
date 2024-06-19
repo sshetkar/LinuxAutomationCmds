@@ -1,4 +1,4 @@
-Lesson2 continue...
+*Lesson2 continue...*
 
 ## Pre-requisite:
 - Before we learn further commands let's first add dummy content to all previous files created in [Lesson2](Lesson2.md) 
@@ -6,7 +6,7 @@ Lesson2 continue...
 - To paste in vi editor instead using INSERT mode we need to directly paste content using key 'p' 
 - Then use ':wq' to write out the pasted content and quit the editor
 
-(You try these steps yourself and if any issue then refer screenshot)
+*(You try these steps yourself and if any issue then refer screenshot)*
 
 ---
 Reference screenshots:

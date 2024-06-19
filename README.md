@@ -40,22 +40,24 @@ To share and educate fellow QA's on useful linux commands when interacting with 
 3. For visual understanding screenshots are also added in Lesson.md files and they are referenced from 'Screenshots' directory so you can avoid it.
 
 4. Directory "Practice Linux" is created to demonstarte/ practice these commands. 
-(Please note your cloned project might vary in terms of file/ folder present as during demonstartion of these commands folder/ files may have added/ deleted/ copied/ moved/ renamed/ etc.)
+
+*(Please note your cloned project might vary in terms of file/ folder present as during demonstartion of these commands folder/ files may have added/ deleted/ copied/ moved/ renamed/ etc.)*
 
 5. Follow these commands as mentioned and it will work as instructed
 
 ## Index
 
-- [Lesson1](Lesson1.md)
-- [Lesson2](Lesson2.md)
-- [Lesson3](Lesson3.md)
-- [Lesson4](Lesson4.md)
-- [Lesson5]
-- [Lesson6]
-- [Lesson7]
+- [Lesson1](Lesson1.md) - Basic Commands
+- [Lesson2](Lesson2.md) - Create files and terminal editors 
+- [Lesson3](Lesson3.md) - Create files and terminal editors 
+- [Lesson4](Lesson4.md) - list and it's attribute commands
+- [Lesson5](Lesson5.md) - Creating and accessing hidden files
+- [Lesson6](Lesson6.md) - Creating and removing folders
+- [Lesson7](Lesson7.md) - Creating zip files and removing files
 
 ## Contact Me
 
+- In the corresponding repository >> go to Plan >> Issues >> raise a New Issue
 - shetkarshashank@gmail.com
 - 8928885292 (whatsapp no.)
 
