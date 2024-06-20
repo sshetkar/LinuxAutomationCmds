@@ -1,0 +1,13 @@
+
+{
+  "name": "Shashank Shetkar",
+  "age": 32,
+  "email": "shetkarshashank@gmail.com",
+  "address": {
+    "street": "Plot 08, Sector 10, Sanpada",
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "country": "Bharat",
+    "zipcode": "400705"
+  }
+}

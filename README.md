@@ -54,6 +54,9 @@ To share and educate fellow QA's on useful linux commands when interacting with 
 - [Lesson5](Lesson5.md) - Creating and accessing hidden files
 - [Lesson6](Lesson6.md) - Creating and removing folders
 - [Lesson7](Lesson7.md) - Creating zip files and removing files
+- [Lesson8](Lesson8.md) - Read and copy content of files
+- [Lesson9](Lesson9.md) - Display content using head/ tail
+- [Lesson10](Lesson10.md) - 
 
 ## Contact Me
 
