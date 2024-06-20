@@ -43,6 +43,8 @@ e.g. rmdir "World Cup"
 
 5. Delete the folders created above in [point #5](#point5)
 
+*try this: create a folder and inside the folder create 2 files with content and then execute cmd 'rmdir folderName' see what error you get on terminal*
+
 ---
 Reference screenshots:
 ![Remove Folder Screenshot](Screenshots/RemoveFolder.png)
