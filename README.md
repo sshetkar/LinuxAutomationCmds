@@ -47,18 +47,22 @@ To share and educate fellow QA's on useful linux commands when interacting with 
 
 ## Index
 
-- [Lesson1](Lesson1.md) - Basic Commands
-- [Lesson2](Lesson2.md) - Create files and terminal editors 
-- [Lesson3](Lesson3.md) - Create files and terminal editors 
-- [Lesson4](Lesson4.md) - list and it's attribute commands
-- [Lesson5](Lesson5.md) - Creating and accessing hidden files
-- [Lesson6](Lesson6.md) - Creating and removing folders
-- [Lesson7](Lesson7.md) - Creating zip files and removing files
-- [Lesson8](Lesson8.md) - Read and copy content of files
-- [Lesson9](Lesson9.md) - Display content using head/ tail
-- [Lesson10](Lesson10.md) - Copy, move, rename - files, folders
-- [Lesson11](Lesson11.md) - Search using grep
-- [Lesson12](Lesson12.md) - Search using grep
+- [Lesson1](1-Lesson.md) - Basic Commands
+- [Lesson2](2-Lesson.md) - Create files and terminal editors 
+- [Lesson3](3-Lesson.md) - Create files and terminal editors 
+- [Lesson4](4-Lesson.md) - list and it's attribute commands
+- [Lesson5](5-Lesson.md) - Creating and accessing hidden files
+- [Lesson6](6-Lesson.md) - Creating and removing folders
+- [Lesson7](7-Lesson.md) - Creating zip files and removing files
+- [Lesson8](8-Lesson.md) - Read and copy content of files
+- [Lesson9](9-Lesson.md) - Display content using head/ tail
+- [Lesson10](10-Lesson.md) - Copy, move, rename - files, folders
+- [Lesson11](11-Lesson.md) - Search using 'grep'
+- [Lesson12](12-Lesson.md) - Search using 'grep'
+- [Lesson13](13-Lesson.md) - Search using 'grep'
+- [Lesson14](14-Lesson.md) - Search using 'find'
+- [Lesson15](15-Lesson.md) - sorting file contents
+- [Lesson16](16-Lesson.md) - Compare and Difference
 
 ## Contact Me
 
