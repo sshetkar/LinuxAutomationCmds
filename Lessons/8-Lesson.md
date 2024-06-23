@@ -14,7 +14,7 @@
 5. To copy content of 1 file to other file 'cat file >> copyFile'
 ---
 Reference screenshots:
-![Cat command Screenshot](Screenshots/catCmd1.png)
-![Cat command Screenshot](Screenshots/catCmd2.png)
-![Cat command Screenshot](Screenshots/catCmd3.png)
+![Cat command Screenshot](../Screenshots/catCmd1.png)
+![Cat command Screenshot](../Screenshots/catCmd2.png)
+![Cat command Screenshot](../Screenshots/catCmd3.png)
 ---

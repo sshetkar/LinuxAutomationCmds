@@ -5,6 +5,6 @@
 
 ---
 Reference screenshots:
-![compare/difference command Screenshot](Screenshots/compcmd.png)
-![compare/difference command Screenshot](Screenshots/diffcmd.png)
+![compare/difference command Screenshot](../Screenshots/compcmd.png)
+![compare/difference command Screenshot](../Screenshots/diffcmd.png)
 ---

@@ -16,5 +16,5 @@
 
 ---
 Reference screenshots:
-![grep command Screenshot](Screenshots/grep7.png)
+![grep command Screenshot](../Screenshots/grep7.png)
 ---

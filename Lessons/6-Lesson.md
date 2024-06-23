@@ -47,5 +47,5 @@ e.g. rmdir "World Cup"
 
 ---
 Reference screenshots:
-![Remove Folder Screenshot](Screenshots/RemoveFolder.png)
+![Remove Folder Screenshot](../Screenshots/RemoveFolder.png)
 ---

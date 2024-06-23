@@ -10,11 +10,11 @@
 
 ---
 Reference screenshots:
-![ViEditor Screenshot](Screenshots/viEditorPaste.png)
-![ViEditor Screenshot](Screenshots/viEditorPaste1.png)
+![ViEditor Screenshot](../Screenshots/viEditorPaste.png)
+![ViEditor Screenshot](../Screenshots/viEditorPaste1.png)
 - Further, I have removed those first 2 lines by going into INSERT mode for Sample.log as well as Readme.md file and have also added content in other files.
 
-![ViEditor Screenshot](Screenshots/viEditorPaste2.png)
-![ViEditor Screenshot](Screenshots/viEditorPaste3.png)
+![ViEditor Screenshot](../Screenshots/viEditorPaste2.png)
+![ViEditor Screenshot](../Screenshots/viEditorPaste3.png)
 
 ---

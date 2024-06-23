@@ -25,6 +25,6 @@ For below screenshot:
 - /d/AUTOMATION/DAILY GIT PUSH 2024/linuxautomationcmds: current user path
 - (main) - curent active branch (refer Git repo to understand this)
 
-![Git Screenshot](Screenshots/BasicCmds.png) 
-![Git Screenshot](Screenshots/BasicCmds1.png)
-![Git Screenshot](Screenshots/BasicCmds2.png)
+![Git Screenshot](../Screenshots/BasicCmds.png) 
+![Git Screenshot](../Screenshots/BasicCmds1.png)
+![Git Screenshot](../Screenshots/BasicCmds2.png)

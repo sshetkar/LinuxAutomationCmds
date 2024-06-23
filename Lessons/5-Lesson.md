@@ -10,6 +10,6 @@
 
 ---
 Reference screenshots:
-![Hidden Screenshot](Screenshots/HiddenDefault.png)
-![Hidden Screenshot](Screenshots/Hidden1.png)
+![Hidden Screenshot](../Screenshots/HiddenDefault.png)
+![Hidden Screenshot](../Screenshots/Hidden1.png)
 ---

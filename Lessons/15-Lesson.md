@@ -8,5 +8,5 @@
 
 ---
 Reference screenshots:
-![sort command Screenshot](Screenshots/Sortcmd.png)
+![sort command Screenshot](../Screenshots/Sortcmd.png)
 ---

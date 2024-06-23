@@ -12,6 +12,6 @@
 
 ---
 Reference screenshots:
-![Head/Tail command Screenshot](Screenshots/HeadTailCmd.png)
+![Head/Tail command Screenshot](../Screenshots/HeadTailCmd.png)
 
 ---

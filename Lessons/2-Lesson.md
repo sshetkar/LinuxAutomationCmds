@@ -38,11 +38,11 @@
 
 ---
 Reference screenshots:
-![Touch Screenshot](Screenshots/TouchCmds.png)
-![Touch Screenshot](Screenshots/TouchCmds1.png)
-![NanoEditor Screenshot](Screenshots/NanoEditor.png)
-![NanoEditor Screenshot](Screenshots/NanoEditor1.png)
-![ViEditor Screenshot](Screenshots/viEditor.png)
-![ViEditor Screenshot](Screenshots/viEditor1.png)
+![Touch Screenshot](../Screenshots/TouchCmds.png)
+![Touch Screenshot](../Screenshots/TouchCmds1.png)
+![NanoEditor Screenshot](../Screenshots/NanoEditor.png)
+![NanoEditor Screenshot](../Screenshots/NanoEditor1.png)
+![ViEditor Screenshot](../Screenshots/viEditor.png)
+![ViEditor Screenshot](../Screenshots/viEditor1.png)
 
 ---

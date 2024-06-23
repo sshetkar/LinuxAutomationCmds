@@ -15,5 +15,5 @@
 
 ---
 Reference screenshots:
-![find command Screenshot](Screenshots/findcmd1.png)
+![find command Screenshot](../Screenshots/findcmd1.png)
 ---

@@ -18,8 +18,8 @@
 
 ---
 Reference screenshots:
-![CopyMoveRename command Screenshot](Screenshots/Copypwd.png)
-![CopyMoveRename command Screenshot](Screenshots/Copypwd1.png)
-![CopyMoveRename command Screenshot](Screenshots/Movepwd.png)
-![CopyMoveRename command Screenshot](Screenshots/Renamepwd.png)
+![CopyMoveRename command Screenshot](../Screenshots/Copypwd.png)
+![CopyMoveRename command Screenshot](../Screenshots/Copypwd1.png)
+![CopyMoveRename command Screenshot](../Screenshots/Movepwd.png)
+![CopyMoveRename command Screenshot](../Screenshots/Renamepwd.png)
 ---

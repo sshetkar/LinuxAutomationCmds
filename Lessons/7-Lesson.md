@@ -11,6 +11,6 @@ e.g. gzip -f "Fifa 2024.txt" then .txt file will be converted to 'Fifa 2024'
 In above cmd it is forced and recursive action taken to delete the file.
 ---
 Reference screenshots:
-![Create Zip File Screenshot](Screenshots/CreateZipFile.png)
-![Delete File Screenshot](Screenshots/DeleteFile.png)
+![Create Zip File Screenshot](../Screenshots/CreateZipFile.png)
+![Delete File Screenshot](../Screenshots/DeleteFile.png)
 ---
