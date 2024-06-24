@@ -63,6 +63,7 @@ To share and educate fellow QA's on useful linux commands when interacting with 
 - [Lesson14](Lessons/14-Lesson.md) - Search using 'find'
 - [Lesson15](Lessons/15-Lesson.md) - sorting file contents
 - [Lesson16](Lessons/16-Lesson.md) - Compare and Difference
+- [Lesson17](Lessons/17-Lesson.md) - Filter file content using 'awk' cmd
 
 ## Contact Me
 
