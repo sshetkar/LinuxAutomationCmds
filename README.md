@@ -24,7 +24,7 @@ To share and educate fellow QA's on useful linux commands when interacting with 
 5. Then install the same on your windows machine
 6. Then in your project explorer create a new empty folder
 7. Left click and open gitbash here
-8. Follow below commands
+8. Execute below commands
                                                   
                                                   
 ```bash
