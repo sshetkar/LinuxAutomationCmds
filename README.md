@@ -45,6 +45,9 @@ To share and educate fellow QA's on useful linux commands when interacting with 
 
 5. Follow these commands as mentioned and it will work as instructed
 
+## Interview Preparation/Revision
+For quick interview preparation/ revision, use these summarized commands from file [Linux cmd Cheat Sheet](/LinuxCmdCheatSheet.md)
+
 ## Index
 
 - [Lesson1](Lessons/1-Lesson.md) - Basic Commands
@@ -75,4 +78,4 @@ To share and educate fellow QA's on useful linux commands when interacting with 
 - https://inwincibleshashank.com/
 - https://inwincibleshashank.com/inwincible-qa/
 
-##
+---
