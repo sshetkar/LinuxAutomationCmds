@@ -8,7 +8,7 @@
 - userid is the 3rd column hence will use - print $3
 - last will provide file to filter
 
-| grep command               | cmd output                                  |
+| awk command                | cmd output                                  |
 |----------------------------|---------------------------------------------|
 | `awk '{print $n}' file` | filter content of file basis ' ' (space) and print column n | 
 | `awk -F "=" '{print $n1, $n2}' file` | filter content of file basis '=' (equalto) and print (column n1 - before equalto), (column n2 - after equalto) |

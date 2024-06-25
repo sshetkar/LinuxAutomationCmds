@@ -5,7 +5,7 @@
 - 'd' for directory and 'f' for file
 
 
-| grep command               | cmd output                                  |
+| find command               | cmd output                                  |
 |----------------------------|---------------------------------------------|
 | `find . -type d` | Return all dir inside current path |
 | `find . -type f` | Return all files inside current path |

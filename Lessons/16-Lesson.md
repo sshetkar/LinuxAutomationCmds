@@ -27,9 +27,9 @@ So, the comparison would look like this at the byte level:
 Here, you can see that at position 12, file1.txt has a newline character (\n), while file2.txt has an exclamation mark (!). This difference makes the files non-identical in a byte-by-byte comparison.
 
 ---
-| grep command               | cmd output                                  |
-|----------------------------|---------------------------------------------|
-| `comp file1 file2` | return byte by byte comparison |
+| comp/diff command  | cmd output                              |
+|--------------------|-----------------------------------------|
+| `comp file1 file2` | return byte by byte comparison          |
 | `diff file1 file2` | return difference in content of 2 files |
 
 ---

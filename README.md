@@ -48,7 +48,7 @@ To share and educate fellow QA's on useful linux commands when interacting with 
 ## Index
 
 - [Lesson1](Lessons/1-Lesson.md) - Basic Commands
-- [Lesson2](Lessons/2-Lesson.md) - Create files and terminal editors 
+- [Lesson2](Lessons/2-Lesson.md) - Create files and terminal editors
 - [Lesson3](Lessons/3-Lesson.md) - Create files and terminal editors 
 - [Lesson4](Lessons/4-Lesson.md) - list and it's attribute commands
 - [Lesson5](Lessons/5-Lesson.md) - Creating and accessing hidden files
