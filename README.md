@@ -50,7 +50,7 @@ For quick interview preparation/ revision, use these summarized commands from fi
 - [Lesson12](Lessons/Lesson12-Search%20using%20'grep'%20(Part-2).md)
 - [Lesson13](Lessons/Lesson13-Search%20using%20'grep'%20(Part-3).md)
 - [Lesson14](Lessons/Lesson14-Search%20using%20'find'.md)
-- [Lesson15](Lessons/Lesson15-sorting file contents)
+- [Lesson15](Lessons/Lesson15-sorting%20file%20contents.md)
 - [Lesson16](Lessons/Lesson16-Compare%20and%20Difference.md)
 - [Lesson17](Lessons/Lesson17-Filter%20file%20content%20using%20'awk'%20cmd.md)
 
