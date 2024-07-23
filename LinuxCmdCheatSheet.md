@@ -1,12 +1,8 @@
 # Cheat Sheet
-This cheat sheet contains links to various resources.
+For quick interview preparation, use these summarized commands
 
 ## Lessons
 For in-depth practical learnings, learn from [Lessons](Readme.md#index) created.
-
-## Interview Preparation
-For quick interview preparation, use these summarized commands:
-
 
 ### General cmd
 - `whoami`: returns username
