@@ -54,9 +54,8 @@ For quick interview preparation/ revision, use these summarized commands from fi
 
 ## Contact Me
 - In the corresponding repository >> go to Plan >> Issues >> raise a New Issue
-- shetkarshashank@gmail.com
-- 8928885292 (whatsapp no.)
+- inwincibleyou@gmail.com
+- 8928885292
 
 ## Website
 https://inwincibleshashank.in/
----
